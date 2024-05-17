@@ -1,3 +1,3 @@
 # Deep-Reinforcement-Learning-agent-for-Construction-Project-Execution
-<!-- embed Final_Report.pdf of current directory in README.md -->
-[Final Report PDF](Final_Report.pdf)
+<!-- embed images from Final_Report folder -->
+![PDF Image](Final_Report/Final_Report_page-0001.png)
